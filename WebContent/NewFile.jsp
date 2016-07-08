@@ -6,13 +6,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
 <title>Insert title here</title>
 </head>
-<<<<<<< HEAD
+
 <body>
 
 <h1>sssefe 1siosjisjsoijssssssssssssssssssss</h1>
-=======
-<body>sssefe
->>>>>>> parent of ecd795a... 커ㄴㄴㄷ
+
 
 </body>
 </html>
